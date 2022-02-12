@@ -4,9 +4,9 @@
 • Token Supply: 600,000,000 LNKB. <br /> <br />
 • Currently listed in [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=0xaefda5c5dd0d1c607523f3e0ef3ea3e4ec8c2c64&outputCurrency=0xdac17f958d2ee523a2206206994597c13d831ec7&chain=mainnet) as a LNKB/USDT pair.  <br /> <br />
 
-• The LNKB contract address 0xAefDA5C5DD0D1C607523f3e0eF3ea3E4EC8c2C64 is verified and published on [EtherScan](https://etherscan.io/address/0xAefDA5C5DD0D1C607523f3e0eF3ea3E4EC8c2C64#code) <br /> <br /> 
+• The LNKB contract address 0xAefDA5C5DD0D1C607523f3e0eF3ea3E4EC8c2C64 is verified and published on [EtherScan](https://etherscan.io/address/0xAefDA5C5DD0D1C607523f3e0eF3ea3E4EC8c2C64#code) <br /> 
 
-• What is LinkBridge?<br />
+• So what is LinkBridge?<br />
 
 According to the Global Report of Entrepreneurs Amway 2015, Mexico is emerging as the second most entrepreneurial country. Since 2016, the number of Fintech enterprises in Mexico has grown at an average rate of 23% per year, according to Mexico’s Fintech Radar. According to the same source, 441 startups have been identified within Mexico. That is a 12% increase in the number of start-ups mentioned in the previous edition of Fintech Radar that was published in June 2019, where 394 startups Fintech were identified in Mexico. However, there are people who do not know how to wisely invest their money. Many entrepreneurs do not develop their projects due to the lack of having access to capital. Only 5% of companies that get established in Mexico last more than two years. LinkBridge is a Mexico-based registered company offering an ecosystem aiming at connecting entrepreneurs, investors and professionals dedicated to increasing the chances of projects to be successfully implemented. In other words, LinkBridge aims at becoming a unique bridge between the mentioned parties. By using the LinkBridge App, entrepreneurs, investors and professionals would be able to easily connect with each other.  <br /> <br />
 
