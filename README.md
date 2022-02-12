@@ -9,7 +9,7 @@ By helping stakeholders accomplish the mentioned goals, LinkBridge would be able
 •Consultation fees. <br />
 •Participation in projects. <br />
 •Certifications. <br />
-•Entrepeneurship courses. <br />
+•Entrepreneurship courses. <br />
 •Networking forums. <br />
 •Referrals. <br /> <br />
 
