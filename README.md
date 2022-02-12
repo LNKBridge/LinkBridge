@@ -1,4 +1,4 @@
-Currently there are people who do not know how to wisely invest their money. Many entrepreneurs do not develop their projects due to lack of having access to capital. Only 5% of companies that open in Mexico last more than two years.<br /> <br /> 
+Currently there are people who do not know how to wisely invest their money. Many entrepreneurs do not develop their projects due to the lack of having access to capital. Only 5% of companies that open in Mexico last more than two years.<br /> <br /> 
 
 LinkBridge is an ecosystem that aims at connecting entrepreneurs, investors and professionals dedicated to increasing the chances of projects to be successfully implemented. LinkBridge aims at becoming a unique bridge between investors and entrepreneurs through a Web App that would allow them to connect. LinkBridge goal is to allow at least 25% of the companies that use its App/platform prosper, taking into account that there are 400 million potential users within Mexico and the United States alone. <br /> <br />
 
