@@ -1,4 +1,3 @@
-<br /> # LinkBridge
 <br /> LinkBridge is an ecosystem that aims at connecting entrepreneurs, investors and professionals dedicated to increasing the chances of projects to be successfully implemented. 
 <br /> Currently there are people who do not know where to invest their money and entrepreneurs who do not develop their projects due to lack of capital. We want to be the bridge between them through a Web App that allows them to connect.
 Only 5% of companies that open in 4 Mexico last more than two years. Our goal is that at least 25% of the companies that use LinkBridge prosper. 400 million possible users between Mexico and the United States.
