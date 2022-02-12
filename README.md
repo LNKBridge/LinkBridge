@@ -1,16 +1,19 @@
-LinkBridge is an ecosystem that aims at connecting entrepreneurs, investors and professionals dedicated to increasing the chances of projects to be successfully implemented. <br />
-Currently there are people who do not know where to invest their money and entrepreneurs who do not develop their projects due to lack of capital. We want to be the bridge between them through a Web App that allows them to connect. <br />
-Only 5% of companies that open in 4 Mexico last more than two years. Our goal is that at least 25% of the companies that use LinkBridge prosper. 400 million possible users between Mexico and the United States. <br /> <br />
-How Money will be made: <br />
+Currently there are people who do not know how to wisely invest their money. Many entrepreneurs do not develop their projects due to lack of having access to capital. Only 5% of companies that open in Mexico last more than two years.<br /> <br /> 
+
+LinkBridge is an ecosystem that aims at connecting entrepreneurs, investors and professionals dedicated to increasing the chances of projects to be successfully implemented. LinkBridge aims at becoming a unique bridge between investors and entrepreneurs through a Web App that would allow them to connect. LinkBridge goal is to allow at least 25% of the companies that use its App/platform prosper, taking into account that there are 400 million potential users within Mexico and the United States alone. <br /> <br />
+
+By helping stakeholders accomplish the mentioned goals, LinkBridge would be able to generate income through the following means: <br />
 Subscriptions / Memberships. <br />
 % Share of Start-ups. <br />
-Consulting fee. <br />
-Participations. in projects <br />
+Consultation fees. <br />
+Participation in projects. <br />
 Certifications. <br />
-Entrepeneur courses. <br />
+Entrepeneurship courses. <br />
 Networking forums. <br />
 Referrals. <br /> <br />
-Our idea is to start as an ecosystem of private offer of securities for the first 100 shareholders per company, starting with the niche of Technology companies, in stage two as Market Place, and stage 3 ITF (Financial Technology Institutions) better known as FINTECH. <br />
+
+The implementation of LinkBridge would take place in three stages. Stage 1 is to start as an ecosystem that is able to privately offer securities for the first 100 shareholders per company. In stage 2, LinkBridge would focus on the niche of Technology companies and be regarded as a Market Place. For stage 3, LinkBridge would focus on FTIs (Financial Technology Institutions), better known as FINTECHs. <br /> <br />
+
 Mexico is emerging as the second most entrepreneurial country, according to the Global Report of Entrepreneurs Amway 2015. The first place is Denmark, with 96%, Mexico and Colombia, with 91%. <br />
 Almost one third of startups operate in the financial services sector, followed by health, information and communication technologies (ICT), and education. Jobs and livelihoods are priorities in the most common areas of impact. <br />
 Mexico is the country where startup ecosystems are most distributed in the territory, with 32% startups in Mexico City, 10% in Guadalajara and 8% in Monterrey.
