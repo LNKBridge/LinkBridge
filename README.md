@@ -3,14 +3,15 @@ Currently there are people who do not know how to wisely invest their money. Man
 LinkBridge is an ecosystem that aims at connecting entrepreneurs, investors and professionals dedicated to increasing the chances of projects to be successfully implemented. LinkBridge aims at becoming a unique bridge between investors and entrepreneurs through a Web App that would allow them to connect. LinkBridge goal is to allow at least 25% of the companies that use its App/platform prosper, taking into account that there are 400 million potential users within Mexico and the United States alone. <br /> <br />
 
 By helping stakeholders accomplish the mentioned goals, LinkBridge would be able to generate income through the following means: <br />
-Subscriptions / Memberships. <br />
-% Share of Start-ups. <br />
-Consultation fees. <br />
-Participation in projects. <br />
-Certifications. <br />
-Entrepeneurship courses. <br />
-Networking forums. <br />
-Referrals. <br /> <br />
+
+•Subscriptions / Memberships. <br />
+•% Share of Start-ups. <br />
+•Consultation fees. <br />
+•Participation in projects. <br />
+•Certifications. <br />
+•Entrepeneurship courses. <br />
+•Networking forums. <br />
+•Referrals. <br /> <br />
 
 The implementation of LinkBridge would take place in three stages. Stage 1 is to start as an ecosystem that is able to privately offer securities for the first 100 shareholders per company. In stage 2, LinkBridge would focus on the niche of Technology companies and be regarded as a Market Place. For stage 3, LinkBridge would focus on FTIs (Financial Technology Institutions), better known as FINTECHs. <br /> <br />
 
