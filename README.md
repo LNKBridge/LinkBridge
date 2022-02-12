@@ -13,4 +13,4 @@ By helping stakeholders accomplish the mentioned goals, LinkBridge would be able
 •Networking forums. <br />
 •Referrals. <br /> <br />
 
-The implementation of LinkBridge would take place in three stages. Stage 1 is to start as an ecosystem that is able to privately offer securities for the first 100 shareholders per company. In stage 2, LinkBridge would focus on the niche of Technology companies and be regarded as a Market Place. For stage 3, LinkBridge would focus on FTIs (Financial Technology Institutions), better known as FINTECHs.
+The implementation of LinkBridge would take place in three stages. Stage 1 is to start as an ecosystem that is able to privately offer securities for the first 100 shareholders per company. In stage 2, LinkBridge would focus on the niche of Technology companies that are regarded as a market places. For stage 3, LinkBridge would focus on FTIs (Financial Technology Institutions), better known as FINTECHs.
