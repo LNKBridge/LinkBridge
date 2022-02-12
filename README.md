@@ -1,5 +1,5 @@
 • This LinkBridge Repository contains the files related to the smart contract that got executed on the Ethereum blockchain to create the LNKB ERC-20 token. <br /> <br />
-• Most of files included are rightfully and legally obtained from the [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts) repository, according to the OpenZeppelin SPDX-License-Identifier: MIT. <br /> <br />
+• Most of files included are rightfully and legally obtained from the [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts) repository, pursuant to the OpenZeppelin SPDX-License-Identifier: MIT. <br /> <br />
 • LNKB contract address: 0xAefDA5C5DD0D1C607523f3e0eF3ea3E4EC8c2C64 <br /> <br />
 • Token Supply: 600,000,000 LNKB. <br /> <br />
 • Currently listed in [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=0xaefda5c5dd0d1c607523f3e0ef3ea3e4ec8c2c64&outputCurrency=0xdac17f958d2ee523a2206206994597c13d831ec7&chain=mainnet) as a LNKB/USDT pair.  <br />
